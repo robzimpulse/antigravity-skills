@@ -1,0 +1,12 @@
+{
+  "name": "antigravity-skill-plugin",
+  "version": "1.0.0",
+  "description": "Core tools and knowledge required for Antigravity",
+  "author": {
+    "name": "robzimpulse-antigravity-skills"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "Antigravity"
+  ]
+}
